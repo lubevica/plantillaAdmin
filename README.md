@@ -1,0 +1,2 @@
+# plantillaAdmin
+plantilla adminlte angular
